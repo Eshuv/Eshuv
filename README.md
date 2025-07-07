@@ -77,14 +77,25 @@ I’m always up for learning something new, taking on new challenges, and connec
 
 ---
 
-### 🏅 My GitHub Stats
+## 🏅 My GitHub Stats
 
-<a href="http://www.github.com/Eshuv"><img src="https://github-readme-stats.vercel.app/api?username=Eshuv&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Eshuv's GitHub stats" /></a>
-<a href="http://www.github.com/Eshuv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshuv&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/Eshuv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshuv&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Eshuv&show_icons=true&hide_title=true&count_private=true&theme=dark&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2&hide_border=true" alt="Abhay Gautam's GitHub Stats" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshuv&layout=compact&theme=dark&bg_color=1c1917&title_color=0891b2&text_color=ffffff&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshuv&theme=dark&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
 ### 😂 Anything Else?
 
-I write code, but my coffee writes the bugs.
+I believe every problem can be solved with enough coffee and Stack Overflow.🙌
